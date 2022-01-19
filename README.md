@@ -1,4 +1,4 @@
-# Deep-Learning-and-Image-Understanding
+# Deep-Learning
 
 basic concepts and tools for image understanding using Deep Learning.
 
